@@ -1,9 +1,10 @@
 # Byte-compiled / optimized / DLL files
 joel.py
+/TCGA-PANCAN-HiSeq-801x20531
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.DS_Store
 # C extensions
 *.so
 
